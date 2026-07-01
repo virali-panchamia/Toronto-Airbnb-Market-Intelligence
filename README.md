@@ -13,5 +13,5 @@ Questions to answer:
 - Regulatory compliance — How does licensing vary across the city?
 
 # Dataset
-Source: Airbnb — Toronto
-File: listings.csv
+Source: Airbnb — Toronto (https://insideairbnb.com/get-the-data/)
+File: listings
