@@ -21,3 +21,10 @@ Source: Airbnb — Toronto (https://insideairbnb.com/get-the-data/)
 
 https://public.tableau.com/views/TorontoAirbnbMarketIntelligence/AirbnbMarketIntelligence?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
+# Insights and Recommendations
+- Waterfront Communities vastly outpace every other neighbourhood in supply, with roughly 3x the listing count of the next-highest neighbourhood (Niagara)
+- 41.2% of the supply is controlled by professional operators.
+- An inverse relationship between supply and demand is seen as listing count grows above 50. This suggests smaller/niche neighbourhoods have more volatile demand while high-supply neighbourhoods settle into a predictable, moderate demand pattern.
+
+- Prioritize host acquisition in low-supply, high-demand-intensity neighbourhoods rather than pouring further resources into saturated areas like Waterfront Communities. These underserved pockets show guests are actively seeking stays, but supply hasn't caught up.
+- Since Casual hosts already make up the majority of the market, the fastest path to filling that gap is a targeted onboarding campaign encouraging casual/individual hosts in those specific underlisted neighbourhoods, rather than trying to convert more Professional operators.
