@@ -14,4 +14,3 @@ Questions to answer:
 
 # Dataset
 Source: Airbnb — Toronto (https://insideairbnb.com/get-the-data/)
-File: listings
