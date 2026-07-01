@@ -11,3 +11,7 @@ Questions to answer:
 - Demand signals — Where is demand strongest? (review activity as a booking proxy)
 - Competitive landscape — Professional operators vs casual hosts
 - Regulatory compliance — How does licensing vary across the city?
+
+# Dataset
+Source: Airbnb — Toronto
+File: listings.csv
